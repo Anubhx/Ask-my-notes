@@ -1,2 +1,0 @@
-generate a best asky my notes app use gemini , uloades a pdf and give give only response from the pdf no excess like restict the Ai using RAG , prompt engginering  
-key to remember - use logical approch do cgangs in code and smartly 

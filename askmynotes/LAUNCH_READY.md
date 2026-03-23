@@ -20,19 +20,7 @@ Your new professional README includes:
 
 ---
 
-### ✅ 2. LinkedIn Post Templates Created
-**Location:** `/LINKEDIN_POST.md`
-
-Three versions tailored for different audiences:
-
-**Version 1: MAIN POST (Recommended)**
-- What I built (RAG system)
-- How I built it (architecture overview)
-- What I improved (privacy, cost, chunking, caching, agentic thinking)
-- Strong emphasis on Agentic AI learning
-- **Length:** Perfect for LinkedIn (300-400 words)
-
-**Version 2: Technical Deep Dive**
+### ✅ 2. Documentation Complete
 - For AI/ML engineers on your network
 - Deep technical explanation of RAG pipeline
 - Why local is better than cloud
@@ -78,9 +66,8 @@ OR in VS Code:
 askmynotes/ (PORTFOLIO-READY)
 │
 ├── 📝 DOCUMENTATION (Production-Quality)
-│   ├── README.md                    ✅ NEW - Professional, in-depth
-│   ├── LINKEDIN_POST.md             ✅ NEW - Ready to post
-│   ├── QUICKSTART.md                ✅ Updated for Ollama
+│   ├── README.md                    ✅ Professional, in-depth
+│   ├── QUICKSTART.md                ✅ For Ollama setup
 │   ├── PORTFOLIO_GUIDE.md           (Career & monetization guide)
 │   └── OLLAMA_SETUP.md              (Installation guide)
 │
@@ -141,8 +128,8 @@ Emphasizes:
 - Show understanding of trade-offs
 
 ### For LinkedIn Visibility
-1. Copy entire Main Post from `LINKEDIN_POST.md`
-2. Paste into LinkedIn
+1. Draft post using talking points from ../AGENTIC_AI_GUIDE.md
+2. Refer to ../CAREER_PATH.md LinkedIn Strategy section
 3. Add 1-2 hashtags:
    - #AgenticAI
    - #RAG
@@ -227,12 +214,11 @@ Would love to chat about opportunities.
 ```
 BEFORE POSTING ON LINKEDIN:
 ☐ Read through your final README.md
-☐ Read LINKEDIN_POST.md and pick your version
+☐ Reference ../AGENTIC_AI_GUIDE.md for talking points
 ☐ Delete agent.md (if still there)
 ☐ Make sure home.png looks good
 ☐ Test that app still works (optional but good)
-☐ Copy LinkedIn post text
-☐ Paste into LinkedIn
+☐ Draft and paste into LinkedIn
 ☐ Add relevant hashtags
 ☐ Post!
 
